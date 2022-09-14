@@ -24,11 +24,81 @@ React, Vue, Angular
 
 4. Zasoby
 
-[4iSP_students](https://drive.google.com/drive/folders/1dTXOKc9r30y0o7iqZKjcQfamZKni3jOm?usp=sharing)
+[4iSP_students: https://drive.google.com/drive/folders/1dTXOKc9r30y0o7iqZKjcQfamZKni3jOm?usp=sharing](https://drive.google.com/drive/folders/1dTXOKc9r30y0o7iqZKjcQfamZKni3jOm?usp=sharing)
 
 5. Webdesign vs Webdevelopment - projektowanie i tworzenie stron WWW
 6. HTML + CSS + JS recap
 7. JS - ES6 modules
 8. CMS - Wordpress
 ```
+## Front End, Back end, Full stack developer
+
+https://arkusze.pl/egzamin-zawodowy-kwalifikacja-e-14/
+
+https://egzamin-e14.blogspot.com/
+
+https://pasja-informatyki.pl/programowanie-webowe/
+
+https://htmlcheatsheet.com/
+
+JavaScript ES6 Modules : https://youtu.be/cRHQNNcYf6s
+
+```
+
+https://www.w3.org | https://validator.w3.org | https://www.php.net/manual/en/
+### --------Repositiories
+https://www.w3schools.com | https://stackoverflow.com | https://css-tricks.com |
+### --------On line editors
+https://codepen.io/ | https://codesandbox.io/ | https://jsfiddle.net/ |
+### ---------Assets
+https://cdnjs.com/ | https://fontawesome.com | http://fontello.com/ | https://fonts.google.com/ |
+### ---------Stock Img
+https://www.pexels.com/ | https://unsplash.com | https://pixabay.com
+### ---------Tuts
+https://pasja-informatyki.pl/, https://www.youtube.com/user/MiroslawZelent
+
+Hello Roman https://www.youtube.com/channel/UCq8XmOMtrUCb8FcFHQEd8_g
+
+Overment https://www.youtube.com/channel/UC_MIaHmSkt9JHNZfQ_gUmrg
+
+[Web Developer Roadmap 2022 - How To Become a Developer?](https://duckduckgo.com/?q=How+to+Become+a+Web+Developer+in+2022&t=brave&iax=videos&ia=videos&iai=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DFMiPwhfLJCE)
+-------------------------------------
+
+DevEd - https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q 
+
+Telmo Sempaio - https://www.youtube.com/user/Telmo87
+
+Traversy Media - https://www.youtube.com/user/TechGuyWeb
+
+Academind -https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w
+
+Codestackr -https://www.youtube.com/channel/UCDCHcqyeQgJ-jVSd6VJkbCw
+
+WebDevSimplified -https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw
+
+Programming With Mosh -https://www.youtube.com/user/programmingwithmosh
+
+Net Ninja -https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg
+
+Sexy Design Course -https://www.youtube.com/user/DesignCourse
+
+Florin Pop -https://www.youtube.com/channel/UCeU-1X402kT-JlLdAitxSMA
+
+IHateTomatoes -https://www.youtube.com/user/ihatetomatoesblog
+
+Stephen Grider -https://www.youtube.com/channel/UCQCaS3atWyNHEy5PkDXdpNg
+
+Colt Steele -https://www.youtube.com/channel/UCrqAGUPPMOdo0jfQ6grikZw
+
+Wes Baws - https://www.youtube.com/user/wesbos
+
+Ex Tech Lead -https://www.youtube.com/channel/UC4xKdmAXFh4ACyhpiQ_3qBw
+
+MMTuts -https://www.youtube.com/user/TheCharmefis
+
+Derek Banas - https://www.youtube.com/user/derekbanas
+
+Programming With Erik -https://www.youtube.com/channel/UCshZ3rdoCLjDYuTR_RBubzw
+
+TheNewBoston - https://www.youtube.com/user/thenewboston 
 ## Front End, Back end, Full stack developer
