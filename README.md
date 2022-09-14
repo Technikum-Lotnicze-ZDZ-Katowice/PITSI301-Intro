@@ -21,10 +21,15 @@ ocena	% prawidłowych odpowiedzi
 ocena	% prawidłowych odpowiedzi
 
 Celująca	100 
+
 Bardzo dobra	95-99
+
 Dobra	90-94
+
 Dostateczna	80-89
+
 Dopuszczająca	75-79
+
 Niedostateczna	0-74
 
 
