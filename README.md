@@ -44,6 +44,19 @@ https://htmlcheatsheet.com/
 JavaScript ES6 Modules : https://youtu.be/cRHQNNcYf6s
 
 ```
+9. Oprogramowanie:
+
+VSCode,
+
+Photopea,
+
+Figma,
+
+Krita,
+
+Blender3d,
+
+Audacity
 
 https://www.w3.org | https://validator.w3.org | https://www.php.net/manual/en/
 ### --------Repositiories
