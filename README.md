@@ -5,6 +5,8 @@
 1. Statut szkoły (librus.pl)
 2. Sprawdziany i projekty
 
+### sprawdziany pisemne z przedmiotów kształcenia zawodowego ocenia się wg następujących zasad:
+
 ocena	% prawidłowych odpowiedzi
 
 - Celująca	100 
@@ -13,6 +15,18 @@ ocena	% prawidłowych odpowiedzi
 - Dostateczna	56-75
 - Dopuszczająca	40-55
 - Niedostateczna	0-39
+
+### sprawdziany w formie zadania praktycznego obejmujące przedmioty kształcenia zawodowego ocenia się wg następujących zasad:
+
+ocena	% prawidłowych odpowiedzi
+
+Celująca	100 
+Bardzo dobra	95-99
+Dobra	90-94
+Dostateczna	80-89
+Dopuszczająca	75-79
+Niedostateczna	0-74
+
 
 4. Technologie webowe
 
