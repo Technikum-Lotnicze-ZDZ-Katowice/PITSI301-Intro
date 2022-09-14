@@ -20,10 +20,11 @@ Front end <=> Back end
 
 HTML+CSS+JS <=> PHP, Nodejs
 
-React,Vue,Angular
+React, Vue, Angular
 
-4. HTML + CSS + JS recap
-5. JS - ES6 modules
-6. CMS - Wordpress
+4. Webdesign vs Webdevelopment - projektowanie i tworzenie stron WWW
+5. HTML + CSS + JS recap
+6. JS - ES6 modules
+7. CMS - Wordpress
 ```
 ## Front End, Back end, Full stack developer
