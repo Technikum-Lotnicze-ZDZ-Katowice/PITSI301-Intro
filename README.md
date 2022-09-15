@@ -45,7 +45,7 @@ React, Vue, Angular
 
 [4iSP_students: https://drive.google.com/drive/folders/1dTXOKc9r30y0o7iqZKjcQfamZKni3jOm?usp=sharing](https://drive.google.com/drive/folders/1dTXOKc9r30y0o7iqZKjcQfamZKni3jOm?usp=sharing)
 
-[VSCode Live Share Link: https://prod.liveshare.vsengsaas.visualstudio.com/join?3887EB717E474FC0186346394DAC00966E79](https://prod.liveshare.vsengsaas.visualstudio.com/join?3887EB717E474FC0186346394DAC00966E79)
+[VSCode Live Share Link: https://prod.liveshare.vsengsaas.visualstudio.com/join?66FEB62137B70AD7390029A0BC65E2ECC6F1](https://prod.liveshare.vsengsaas.visualstudio.com/join?66FEB62137B70AD7390029A0BC65E2ECC6F1)
 
 5. Webdesign vs Webdevelopment - projektowanie i tworzenie stron WWW
 6. HTML + CSS + JS recap
