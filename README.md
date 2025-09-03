@@ -44,7 +44,7 @@ React, Vue, Angular
 4. Szablon strony
 
 5.
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
