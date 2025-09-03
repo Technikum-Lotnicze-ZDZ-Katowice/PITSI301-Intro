@@ -41,9 +41,26 @@ HTML+CSS+JS <=> PHP, Nodejs
 
 React, Vue, Angular
 
+4. Szablon strony
+
+5.
+   ```HTML
+   <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+</body>
+</html>
+   ```
+
 4. Zasoby
 
-[4iSP_students: https://drive.google.com/drive/folders/1dTXOKc9r30y0o7iqZKjcQfamZKni3jOm?usp=sharing](https://drive.google.com/drive/folders/1dTXOKc9r30y0o7iqZKjcQfamZKni3jOm?usp=sharing)
+[3i_students: https://drive.google.com/drive/folders/1ZEeFkeTbX2R8AaJB61LfhBXLE011PPMn?usp=sharing](https://drive.google.com/drive/folders/1ZEeFkeTbX2R8AaJB61LfhBXLE011PPMn?usp=sharing)
 
 [VSCode Live Share Link: https://prod.liveshare.vsengsaas.visualstudio.com/join?66FEB62137B70AD7390029A0BC65E2ECC6F1](https://prod.liveshare.vsengsaas.visualstudio.com/join?66FEB62137B70AD7390029A0BC65E2ECC6F1)
 
