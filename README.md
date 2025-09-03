@@ -1,4 +1,4 @@
-# PITS401-Intro
+# PITSI301-Intro
 
 ## INFO
 
