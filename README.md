@@ -44,8 +44,8 @@ React, Vue, Angular
 4. Szablon strony
 
 5.
-   ```HTML
-   <!DOCTYPE html>
+```
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -56,7 +56,7 @@ React, Vue, Angular
     
 </body>
 </html>
-   ```
+```
 
 4. Zasoby
 
