@@ -62,12 +62,14 @@ React, Vue, Angular
 
 [3i_students: https://drive.google.com/drive/folders/1ZEeFkeTbX2R8AaJB61LfhBXLE011PPMn?usp=sharing](https://drive.google.com/drive/folders/1ZEeFkeTbX2R8AaJB61LfhBXLE011PPMn?usp=sharing)
 
-[VSCode Live Share Link: https://prod.liveshare.vsengsaas.visualstudio.com/join?66FEB62137B70AD7390029A0BC65E2ECC6F1](https://prod.liveshare.vsengsaas.visualstudio.com/join?66FEB62137B70AD7390029A0BC65E2ECC6F1)
+5. Program
 
-5. Webdesign vs Webdevelopment - projektowanie i tworzenie stron WWW
-6. HTML + CSS + JS recap
-7. JS - ES6 modules
-8. CMS - Wordpress
+- Webdesign vs Webdevelopment - projektowanie i tworzenie stron WWW
+- HTML + CSS
+- Tekst (lorem ipsum, akapity, listy, indeksy, encje)
+- Obrazki
+- tabele
+- layouty
 ```
 ## Front End, Back end, Full stack developer
 
