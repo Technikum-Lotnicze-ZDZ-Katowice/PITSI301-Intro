@@ -84,7 +84,7 @@ JavaScript ES6 Modules : https://youtu.be/cRHQNNcYf6s
 ```
 9. Oprogramowanie:
 
-VSCode (liveserver, liveshare),
+Notepad++
 
 Photopea,
 
