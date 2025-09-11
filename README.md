@@ -73,6 +73,8 @@ React, Vue, Angular
 ```
 ## Front End, Back end, Full stack developer
 
+https://www.youtube.com/watch?v=erEgovG9WBs
+
 https://arkusze.pl/egzamin-zawodowy-kwalifikacja-e-14/
 
 https://egzamin-e14.blogspot.com/
