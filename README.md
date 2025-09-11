@@ -71,7 +71,7 @@ React, Vue, Angular
 - tabele
 - layouty
 
-[<img src="https://img.youtube.com/vi/erEgovG9WBs/sddefault.jpg">](https://www.youtube.com/watch?v=erEgovG9WBs)
+[<img src="https://img.youtube.com/vi/erEgovG9WBs/maxresdefault.jpg">](https://www.youtube.com/watch?v=erEgovG9WBs)
 
 ```
 ## Front End, Back end, Full stack developer
