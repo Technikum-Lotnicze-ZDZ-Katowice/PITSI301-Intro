@@ -70,10 +70,12 @@ React, Vue, Angular
 - Obrazki
 - tabele
 - layouty
+
+[<img src="https://img.youtube.com/vi/erEgovG9WBs/sddefault.jpg">](https://www.youtube.com/watch?v=erEgovG9WBs)
+
 ```
 ## Front End, Back end, Full stack developer
 
-[<img src="https://img.youtube.com/vi/erEgovG9WBs/sddefault.jpg">](https://www.youtube.com/watch?v=erEgovG9WBs)
 
 https://arkusze.pl/egzamin-zawodowy-kwalifikacja-e-14/
 
